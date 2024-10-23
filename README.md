@@ -18,7 +18,7 @@ Instructions :
 
 Instructions :
 
-    Ouvre PowerShell avec les droits administrateur.
-    Exécute le script :
+  Ouvre PowerShell avec les droits administrateur.
+  Exécute le script :
 
-      ./script_git_windows.ps1
+    ./script_git_windows.ps1
